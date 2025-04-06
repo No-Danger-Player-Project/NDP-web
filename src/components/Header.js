@@ -6,7 +6,7 @@ function Header() {
   return (
     <header className="header">
       <div className="container">
-        <h1 className="logo">MC封禁系统</h1>
+        <h1 className="logo">MC-NDP防熊系统</h1>
         <nav className="nav">
           <ul>
             <li><Link to="/">首页</Link></li>

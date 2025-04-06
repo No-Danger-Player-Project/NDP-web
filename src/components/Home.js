@@ -5,7 +5,7 @@ function Home() {
   return (
     <div className="home">
       <div className="hero">
-        <h1>我的世界封禁系统</h1>
+        <h1>我的世界NDP防熊系统</h1>
         <p>维护游戏环境，创建公平公正的游戏体验</p>
       </div>
       
